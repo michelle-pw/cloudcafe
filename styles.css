@@ -1,0 +1,83 @@
+html {
+  font-family: "Source Sans Pro", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-image: url("assets/background-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.text-align-center { text-align: center; }
+.white-text { color: white; }
+.pb-50 { padding-bottom: 50px; }
+.justify-center { justify-content: center; }
+.justify-evenly { justify-content: space-evenly; }
+.justify-between { justify-content: space-between; }
+.align-center { align-items: center; }
+.page-header { background-color: #f08080; }
+.nav-item { text-decoration: none; }
+.nav-item-size { font-size: 18px; }
+.nav-item:hover { color: steelblue; }
+
+.hero-image {
+  background-image: url("assets/watercolor-logo.png");
+  background-color: rgb(247, 235, 247);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 80%;
+  height: 350px;
+}
+
+.student-name {
+  font-family: "Brush Script MT", cursive;
+  font-size: 60px;
+  background-color: none;
+  border-top: 5px double white;
+  border-bottom: 5px double white;
+}
+
+.about-section {
+  background-color: whitesmoke;
+}
+
+.about-section-para {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.about-image {
+  max-height: 80%;
+  border: 4px solid rgb(240, 180, 102);
+}
+
+.text-align.reset {
+  text-align: initial;
+}
+
+.flavors-section {
+  background-color: rgb(250, 224, 177);
+}
+
+.flavors-image {
+  max-height: 80%;
+  border: 2px dashed rgb(240, 180, 102);
+}
+
+.menu-section {
+  background-color: snow;
+}
+
+.menu-para {
+  font-family: "Brush Script MT", cursive;
+}
+
+.contact-section {
+  background-color: #ee6767;
+}
+
+.blue-text {
+  color: rgb(0, 12, 15);
+}
