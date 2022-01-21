@@ -1,4 +1,3 @@
-# Prep Course Portfolio Page
+# Cloud Cafe
 
-An HTML and CSS page to showcase my work.
-# cloudcafe
+An HTML and CSS page
